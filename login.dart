@@ -6,7 +6,7 @@ class LoginDay13 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xff0C0950),
+      backgroundColor: const Color(0xff011B33),
 
       //SingleChildScrollView biar bisa discroll
       body: SingleChildScrollView(
@@ -195,3 +195,4 @@ class LoginDay13 extends StatelessWidget {
     );
   }
 }
+
